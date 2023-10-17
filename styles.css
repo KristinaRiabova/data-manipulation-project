@@ -1,0 +1,16 @@
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #272d31;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+
+#data-display {
+    border: 1px solid #384045;
+    padding: 10px;
+    margin: 10px 0;
+}
+
